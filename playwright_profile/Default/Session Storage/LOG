@@ -1,0 +1,18 @@
+2025/08/16-23:00:13.263 4964 Reusing MANIFEST C:\Users\Admin\OneDrive\Pulpit\python\playwright_profile\Default\Session Storage/MANIFEST-000001
+2025/08/16-23:00:13.268 4964 Recovering log #5
+2025/08/16-23:00:13.281 4964 Level-0 table #8: started
+2025/08/16-23:00:13.308 4964 Level-0 table #8: 847276 bytes OK
+2025/08/16-23:00:13.311 4964 Recovering log #7
+2025/08/16-23:00:13.315 4964 Reusing old log C:\Users\Admin\OneDrive\Pulpit\python\playwright_profile\Default\Session Storage/000007.log 
+2025/08/16-23:00:13.318 4964 Delete type=0 #5
+2025/08/16-23:00:21.108 2f24 Level-0 table #10: started
+2025/08/16-23:00:21.127 2f24 Level-0 table #10: 847377 bytes OK
+2025/08/16-23:00:21.130 2f24 Delete type=0 #7
+2025/08/16-23:00:21.131 2f24 Compacting 4@0 + 0@1 files
+2025/08/16-23:00:21.171 2f24 Generated table #11@0: 11 keys, 846741 bytes
+2025/08/16-23:00:21.171 2f24 Compacted 4@0 + 0@1 files => 846741 bytes
+2025/08/16-23:00:21.173 2f24 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/16-23:00:21.174 2f24 Delete type=2 #3
+2025/08/16-23:00:21.174 2f24 Delete type=2 #6
+2025/08/16-23:00:21.174 2f24 Delete type=2 #8
+2025/08/16-23:00:21.174 2f24 Delete type=2 #10

@@ -1,0 +1,33 @@
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 AddInfobar73
+0:00:00 TouchMode.EnteredNonTouchMode
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab2 StartNav2 #auto_toplevel
+0:00:00 Browser1 Insert active Tab2 at 1
+0:00:00 Tab2 AddInfobar73
+0:00:00 Tab2 FinishNav2
+0:00:00 Tab2 PageLoad
+0:00:00 Tab2 StartNav3 #typed
+0:00:00 Tab2 RemoveInfobar73
+0:00:00 Tab2 FinishNav3
+0:00:01 Tab2 AddInfobar73
+0:00:01 Tab2 StartNav4 #renderer-script #link
+0:00:01 Tab2 FinishNav4
+0:00:02 Tab2 StartNav5 #renderer-script #auto_subframe
+0:00:02 Tab2 FinishNav5
+0:00:02 Tab2 PageLoad
+0:00:02 Tab2 PageLoad
+0:00:02 Tab2 StartNav6 #renderer-script #auto_subframe
+0:00:02 Tab2 FinishNav6
+0:00:02 Tab2 PageLoad
+0:00:02 Widget Closed: TranslateBubbleView
+0:00:02 Tab2 StartNav7 #renderer-user #auto_subframe
+0:00:02 Tab2 FinishNav7
+0:00:02 Tab2 StartNav8 #renderer-script #auto_subframe
+0:00:02 Tab2 FinishNav8
+0:00:03 Tab2 PageLoad
+0:00:03 Tab2 PageLoad
+0:00:05 Tab2 StartNav9 #renderer-user #link
+0:00:05 Tab2 FinishNav9
+0:00:11 Tab1 RemoveInfobar73

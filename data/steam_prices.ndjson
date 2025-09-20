@@ -1,0 +1,849 @@
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-25T13:19:06.428951+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.89, "timestamp": "2025-08-25T13:19:08.760981+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.55, "timestamp": "2025-08-25T13:19:11.062111+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.03, "timestamp": "2025-08-25T13:19:13.371105+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.5, "timestamp": "2025-08-25T13:19:15.731176+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.38, "timestamp": "2025-08-25T13:19:18.594317+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.62, "timestamp": "2025-08-25T13:19:20.861381+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.68, "timestamp": "2025-08-25T13:19:23.233640+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.79, "timestamp": "2025-08-25T13:19:25.628656+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.67, "timestamp": "2025-08-25T13:19:28.048364+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.94, "timestamp": "2025-08-25T13:19:30.428854+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.35, "timestamp": "2025-08-25T13:19:32.720674+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 136.17, "timestamp": "2025-08-25T13:19:35.158096+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.95, "timestamp": "2025-08-25T13:19:37.697535+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.87, "timestamp": "2025-08-25T13:19:40.076337+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.1, "timestamp": "2025-08-25T13:19:42.591273+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.3, "timestamp": "2025-08-25T13:19:44.914540+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.27, "timestamp": "2025-08-25T13:19:47.214246+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.86, "timestamp": "2025-08-25T13:20:06.139345+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.79, "timestamp": "2025-08-25T13:20:25.042237+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.38, "timestamp": "2025-08-25T13:20:43.893656+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.03, "timestamp": "2025-08-25T13:21:02.720726+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.03, "timestamp": "2025-08-25T13:21:21.585405+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.66, "timestamp": "2025-08-25T13:21:40.498252+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.74, "timestamp": "2025-08-25T13:21:59.371549+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 57.76, "timestamp": "2025-08-25T13:22:18.267219+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 13.02, "timestamp": "2025-08-25T13:22:37.142470+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 12.42, "timestamp": "2025-08-25T13:22:55.988528+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 31.55, "timestamp": "2025-08-25T13:23:14.884259+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.93, "timestamp": "2025-08-25T13:23:17.325884+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.21, "timestamp": "2025-08-25T13:23:19.636420+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.56, "timestamp": "2025-08-25T13:23:22.002752+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.9, "timestamp": "2025-08-25T13:23:24.386870+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.13, "timestamp": "2025-08-25T13:23:26.653812+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.1, "timestamp": "2025-08-25T13:23:28.981981+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.42, "timestamp": "2025-08-25T13:23:31.367567+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.37, "timestamp": "2025-08-25T13:23:33.775755+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.03, "timestamp": "2025-08-25T13:23:36.140142+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.93, "timestamp": "2025-08-25T13:23:38.456692+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.41, "timestamp": "2025-08-25T13:23:40.822219+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.41, "timestamp": "2025-08-25T13:23:43.123375+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 10.25, "timestamp": "2025-08-25T13:23:45.435689+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-25T19:40:51.611810+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.92, "timestamp": "2025-08-25T19:40:53.943767+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.57, "timestamp": "2025-08-25T19:40:56.297263+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.1, "timestamp": "2025-08-25T19:40:58.743245+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.5, "timestamp": "2025-08-25T19:41:01.064015+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.39, "timestamp": "2025-08-25T19:41:03.448890+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.52, "timestamp": "2025-08-25T19:41:05.839080+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.26, "timestamp": "2025-08-25T19:41:08.185925+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.93, "timestamp": "2025-08-25T19:41:10.556859+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.3, "timestamp": "2025-08-25T19:41:12.898859+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 5.23, "timestamp": "2025-08-25T19:41:15.219326+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.39, "timestamp": "2025-08-25T19:41:17.652196+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 140.0, "timestamp": "2025-08-25T19:41:20.053498+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.71, "timestamp": "2025-08-25T19:41:22.445713+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.87, "timestamp": "2025-08-25T19:41:24.724572+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.11, "timestamp": "2025-08-25T19:41:27.037101+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.25, "timestamp": "2025-08-25T19:41:29.356893+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.24, "timestamp": "2025-08-25T19:41:31.823496+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 18.0, "timestamp": "2025-08-25T19:41:34.241245+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.02, "timestamp": "2025-08-25T19:41:36.779540+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.0, "timestamp": "2025-08-25T19:41:58.464584+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 4.94, "timestamp": "2025-08-25T19:42:00.933367+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.69, "timestamp": "2025-08-25T19:42:03.304638+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.61, "timestamp": "2025-08-25T19:42:05.652891+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 59.43, "timestamp": "2025-08-25T19:42:24.638775+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.01, "timestamp": "2025-08-25T19:42:43.574406+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.2, "timestamp": "2025-08-25T19:43:03.236695+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 31.21, "timestamp": "2025-08-25T19:43:22.172727+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.32, "timestamp": "2025-08-25T19:43:41.244550+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.46, "timestamp": "2025-08-25T19:44:00.155819+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.0, "timestamp": "2025-08-25T19:44:19.179344+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.03, "timestamp": "2025-08-25T19:44:38.147117+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.13, "timestamp": "2025-08-25T19:44:57.123718+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.21, "timestamp": "2025-08-25T19:45:16.099000+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.48, "timestamp": "2025-08-25T19:45:35.081413+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.39, "timestamp": "2025-08-25T19:45:53.944214+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.03, "timestamp": "2025-08-25T19:45:56.700623+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-08-25T19:45:59.053477+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.96, "timestamp": "2025-08-25T19:46:01.991593+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.56, "timestamp": "2025-08-25T19:46:04.322243+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 10.35, "timestamp": "2025-08-25T19:46:06.717708+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.32, "timestamp": "2025-08-25T19:46:12.419112+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-25T20:34:06.949504+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.89, "timestamp": "2025-08-25T20:34:09.269940+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.57, "timestamp": "2025-08-25T20:34:11.697449+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.12, "timestamp": "2025-08-25T20:34:14.179120+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.5, "timestamp": "2025-08-25T20:34:16.531131+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.38, "timestamp": "2025-08-25T20:34:18.897493+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.6, "timestamp": "2025-08-25T20:34:21.259183+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.24, "timestamp": "2025-08-25T20:34:23.822929+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.96, "timestamp": "2025-08-25T20:34:26.241482+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.18, "timestamp": "2025-08-25T20:34:28.579554+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.9, "timestamp": "2025-08-25T20:34:30.915412+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.39, "timestamp": "2025-08-25T20:34:33.299237+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 136.96, "timestamp": "2025-08-25T20:34:35.696240+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.0, "timestamp": "2025-08-25T20:34:38.199087+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.98, "timestamp": "2025-08-25T20:34:40.662035+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.11, "timestamp": "2025-08-25T20:34:43.035605+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.3, "timestamp": "2025-08-25T20:34:45.944903+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.24, "timestamp": "2025-08-25T20:34:48.354133+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 18.0, "timestamp": "2025-08-25T20:34:50.965257+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.79, "timestamp": "2025-08-25T20:34:53.400067+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 4.96, "timestamp": "2025-08-25T20:35:15.259343+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.0, "timestamp": "2025-08-25T20:35:17.653159+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.59, "timestamp": "2025-08-25T20:35:22.185858+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 13.12, "timestamp": "2025-08-25T20:35:24.600234+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 58.68, "timestamp": "2025-08-25T20:35:43.550885+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.74, "timestamp": "2025-08-25T20:36:02.541701+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.0, "timestamp": "2025-08-25T20:36:21.524390+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 31.35, "timestamp": "2025-08-25T20:36:40.443580+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.09, "timestamp": "2025-08-25T20:36:59.309994+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.52, "timestamp": "2025-08-25T20:37:18.508081+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.09, "timestamp": "2025-08-25T20:37:37.442930+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.53, "timestamp": "2025-08-25T20:37:56.388351+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.11, "timestamp": "2025-08-25T20:38:15.350453+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.2, "timestamp": "2025-08-25T20:38:34.322106+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.26, "timestamp": "2025-08-25T20:38:53.246078+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.47, "timestamp": "2025-08-25T20:39:05.837131+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.02, "timestamp": "2025-08-25T20:39:08.181286+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-08-25T20:39:10.557903+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.96, "timestamp": "2025-08-25T20:39:12.920422+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.77, "timestamp": "2025-08-25T20:39:15.312021+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.7, "timestamp": "2025-08-25T20:39:17.798848+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.3, "timestamp": "2025-08-25T20:39:23.333577+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-25T21:27:24.894492+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.92, "timestamp": "2025-08-25T21:27:26.273176+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.54, "timestamp": "2025-08-25T21:27:27.438719+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.16, "timestamp": "2025-08-25T21:27:28.785032+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.49, "timestamp": "2025-08-25T21:27:30.059982+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.38, "timestamp": "2025-08-25T21:27:31.330424+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.6, "timestamp": "2025-08-25T21:27:32.755034+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.33, "timestamp": "2025-08-25T21:27:33.967335+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.92, "timestamp": "2025-08-25T21:27:35.334199+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.22, "timestamp": "2025-08-25T21:27:36.933791+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.78, "timestamp": "2025-08-25T21:27:38.794681+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.39, "timestamp": "2025-08-25T21:27:40.201411+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 140.0, "timestamp": "2025-08-25T21:27:41.453011+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.72, "timestamp": "2025-08-25T21:27:42.724266+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 12.04, "timestamp": "2025-08-25T21:27:44.154750+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.1, "timestamp": "2025-08-25T21:27:45.493247+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.35, "timestamp": "2025-08-25T21:27:48.308285+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.47, "timestamp": "2025-08-25T21:27:49.609275+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 18.0, "timestamp": "2025-08-25T21:27:51.159633+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.91, "timestamp": "2025-08-25T21:27:52.502360+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.7, "timestamp": "2025-08-25T21:28:26.042957+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 13.0, "timestamp": "2025-08-25T21:28:27.570232+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 59.0, "timestamp": "2025-08-25T21:28:36.460818+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.12, "timestamp": "2025-08-25T21:28:45.111126+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.24, "timestamp": "2025-08-25T21:28:53.787016+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 31.33, "timestamp": "2025-08-25T21:29:02.335255+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.01, "timestamp": "2025-08-25T21:29:10.964611+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.67, "timestamp": "2025-08-25T21:29:19.836840+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.09, "timestamp": "2025-08-25T21:29:39.748275+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.43, "timestamp": "2025-08-25T21:29:48.609889+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.13, "timestamp": "2025-08-25T21:29:57.373345+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.21, "timestamp": "2025-08-25T21:30:05.894232+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.66, "timestamp": "2025-08-25T21:30:14.427353+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.42, "timestamp": "2025-08-25T21:30:23.153950+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.01, "timestamp": "2025-08-25T21:30:31.594183+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-08-25T21:30:40.277936+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.45, "timestamp": "2025-08-25T21:30:49.259244+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.55, "timestamp": "2025-08-25T21:30:57.810414+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 10.39, "timestamp": "2025-08-25T21:31:06.471250+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.42, "timestamp": "2025-08-25T21:31:21.020476+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.03, "timestamp": "2025-08-25T21:31:29.488920+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.22, "timestamp": "2025-08-25T21:31:38.057975+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-25T22:07:23.377930+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.93, "timestamp": "2025-08-25T22:07:24.608757+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.58, "timestamp": "2025-08-25T22:07:25.915973+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.16, "timestamp": "2025-08-25T22:07:27.126279+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.49, "timestamp": "2025-08-25T22:07:28.457663+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.39, "timestamp": "2025-08-25T22:07:29.608678+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.6, "timestamp": "2025-08-25T22:07:30.925285+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.26, "timestamp": "2025-08-25T22:07:32.147567+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.72, "timestamp": "2025-08-25T22:07:33.415867+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.47, "timestamp": "2025-08-25T22:07:34.720012+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 5.18, "timestamp": "2025-08-25T22:07:36.026347+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.4, "timestamp": "2025-08-25T22:07:37.265137+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 141.82, "timestamp": "2025-08-25T22:07:38.644168+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.4, "timestamp": "2025-08-25T22:07:39.823283+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 12.09, "timestamp": "2025-08-25T22:07:41.148661+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.08, "timestamp": "2025-08-25T22:07:42.318629+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.35, "timestamp": "2025-08-25T22:07:43.578043+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.47, "timestamp": "2025-08-25T22:07:44.917889+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.49, "timestamp": "2025-08-25T22:07:46.367678+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.89, "timestamp": "2025-08-25T22:07:47.767489+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.44, "timestamp": "2025-08-25T22:08:23.223509+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 60.8, "timestamp": "2025-08-25T22:08:31.683208+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.76, "timestamp": "2025-08-25T22:08:40.286337+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.24, "timestamp": "2025-08-25T22:08:48.685870+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 32.02, "timestamp": "2025-08-25T22:08:57.230739+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.2, "timestamp": "2025-08-25T22:09:05.608214+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.67, "timestamp": "2025-08-25T22:09:14.064431+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.29, "timestamp": "2025-08-25T22:09:22.694673+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.43, "timestamp": "2025-08-25T22:09:31.134988+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.13, "timestamp": "2025-08-25T22:09:39.593240+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.23, "timestamp": "2025-08-25T22:09:48.226021+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.44, "timestamp": "2025-08-25T22:09:56.769396+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.45, "timestamp": "2025-08-25T22:10:05.226736+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.02, "timestamp": "2025-08-25T22:10:13.840577+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-08-25T22:10:22.366294+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.85, "timestamp": "2025-08-25T22:10:30.903688+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.68, "timestamp": "2025-08-25T22:10:39.383806+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.57, "timestamp": "2025-08-25T22:10:47.894822+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.42, "timestamp": "2025-08-25T22:11:02.707735+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.03, "timestamp": "2025-08-25T22:11:11.561128+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.03, "timestamp": "2025-08-25T22:11:20.415675+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.71, "timestamp": "2025-08-25T22:11:29.068787+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-25T22:44:48.344948+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.93, "timestamp": "2025-08-25T22:44:49.591105+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.58, "timestamp": "2025-08-25T22:44:50.835710+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.19, "timestamp": "2025-08-25T22:44:52.149652+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.49, "timestamp": "2025-08-25T22:44:53.474820+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.39, "timestamp": "2025-08-25T22:44:55.387224+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.64, "timestamp": "2025-08-25T22:44:56.730406+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.3, "timestamp": "2025-08-25T22:44:58.613242+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 7.49, "timestamp": "2025-08-25T22:45:00.074763+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.65, "timestamp": "2025-08-25T22:45:01.356749+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.99, "timestamp": "2025-08-25T22:45:02.705690+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.43, "timestamp": "2025-08-25T22:45:04.033012+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 142.06, "timestamp": "2025-08-25T22:45:05.372258+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.99, "timestamp": "2025-08-25T22:45:06.580877+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 12.12, "timestamp": "2025-08-25T22:45:08.145897+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.0, "timestamp": "2025-08-25T22:45:09.407020+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.35, "timestamp": "2025-08-25T22:45:10.818591+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.47, "timestamp": "2025-08-25T22:45:12.256805+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.89, "timestamp": "2025-08-25T22:45:13.584307+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.91, "timestamp": "2025-08-25T22:45:14.925899+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.49, "timestamp": "2025-08-25T22:45:51.760593+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 60.8, "timestamp": "2025-08-25T22:46:00.490163+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.94, "timestamp": "2025-08-25T22:46:09.109931+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.34, "timestamp": "2025-08-25T22:46:17.817962+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 32.23, "timestamp": "2025-08-25T22:46:26.413304+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.72, "timestamp": "2025-08-25T22:46:34.958324+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.65, "timestamp": "2025-08-25T22:46:43.655938+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.3, "timestamp": "2025-08-25T22:46:52.322385+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.95, "timestamp": "2025-08-25T22:47:00.975557+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.14, "timestamp": "2025-08-25T22:47:09.547841+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.23, "timestamp": "2025-08-25T22:47:18.102156+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.68, "timestamp": "2025-08-25T22:47:26.681040+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.48, "timestamp": "2025-08-25T22:47:35.408424+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.0, "timestamp": "2025-08-25T22:47:44.021119+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-08-25T22:47:52.665972+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.87, "timestamp": "2025-08-25T22:48:01.395410+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.45, "timestamp": "2025-08-25T22:48:10.046524+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 10.42, "timestamp": "2025-08-25T22:48:18.595594+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.44, "timestamp": "2025-08-25T22:48:33.510389+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.25, "timestamp": "2025-08-25T22:48:42.198512+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.25, "timestamp": "2025-08-25T22:48:50.719865+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.71, "timestamp": "2025-08-25T22:48:59.259341+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-25T23:02:24.771349+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.93, "timestamp": "2025-08-25T23:02:26.057261+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.57, "timestamp": "2025-08-25T23:02:27.438926+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.13, "timestamp": "2025-08-25T23:02:28.758846+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.49, "timestamp": "2025-08-25T23:02:30.138388+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.37, "timestamp": "2025-08-25T23:02:31.497787+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.6, "timestamp": "2025-08-25T23:02:33.205711+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.18, "timestamp": "2025-08-25T23:02:34.423163+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 7.51, "timestamp": "2025-08-25T23:02:36.100130+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.65, "timestamp": "2025-08-25T23:02:37.419789+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 5.22, "timestamp": "2025-08-25T23:02:38.776304+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.94, "timestamp": "2025-08-26T18:33:46.883639+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.92, "timestamp": "2025-08-26T18:33:48.228896+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.57, "timestamp": "2025-08-26T18:33:49.537435+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.11, "timestamp": "2025-08-26T18:33:51.193995+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.49, "timestamp": "2025-08-26T18:33:52.601421+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.39, "timestamp": "2025-08-26T18:33:54.018842+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.63, "timestamp": "2025-08-26T18:33:55.365133+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.3, "timestamp": "2025-08-26T18:33:56.763988+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 7.25, "timestamp": "2025-08-26T18:33:58.087505+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.38, "timestamp": "2025-08-26T18:33:59.893171+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 5.47, "timestamp": "2025-08-26T18:34:01.279436+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.4, "timestamp": "2025-08-26T18:34:02.680706+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 134.32, "timestamp": "2025-08-26T18:34:04.132850+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 15.87, "timestamp": "2025-08-26T18:34:05.489036+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 12.1, "timestamp": "2025-08-26T18:34:06.872850+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.07, "timestamp": "2025-08-26T18:34:08.148613+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.27, "timestamp": "2025-08-26T18:34:09.490719+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.47, "timestamp": "2025-08-26T18:34:10.872076+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 16.95, "timestamp": "2025-08-26T18:34:12.208129+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.64, "timestamp": "2025-08-26T18:34:13.468673+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.67, "timestamp": "2025-08-26T18:34:46.634447+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.5, "timestamp": "2025-08-26T18:34:48.097353+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 61.46, "timestamp": "2025-08-26T18:34:56.805470+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.27, "timestamp": "2025-08-26T18:35:05.909631+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.35, "timestamp": "2025-08-26T18:35:14.823676+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 30.03, "timestamp": "2025-08-26T18:35:23.669638+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.8, "timestamp": "2025-08-26T18:35:32.627254+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.59, "timestamp": "2025-08-26T18:35:41.492635+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.86, "timestamp": "2025-08-26T18:35:50.494094+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.63, "timestamp": "2025-08-26T18:35:59.265983+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.04, "timestamp": "2025-08-26T18:36:08.229583+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.19, "timestamp": "2025-08-26T18:36:17.413254+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.31, "timestamp": "2025-08-26T18:36:26.088533+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.42, "timestamp": "2025-08-26T18:36:34.837885+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 8.83, "timestamp": "2025-08-26T18:36:43.728072+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.93, "timestamp": "2025-08-26T18:36:52.462114+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.21, "timestamp": "2025-08-26T18:37:01.652732+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.78, "timestamp": "2025-08-26T18:37:10.440869+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.35, "timestamp": "2025-08-26T18:37:19.248989+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.33, "timestamp": "2025-08-26T18:37:34.184803+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.4, "timestamp": "2025-08-26T18:37:43.196384+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.26, "timestamp": "2025-08-26T18:37:51.920592+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.95, "timestamp": "2025-08-27T20:56:43.768633+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.92, "timestamp": "2025-08-27T20:56:45.150315+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.49, "timestamp": "2025-08-27T20:56:46.578312+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.88, "timestamp": "2025-08-27T20:56:48.031323+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.46, "timestamp": "2025-08-27T20:56:50.048481+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.36, "timestamp": "2025-08-27T20:56:51.385386+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.58, "timestamp": "2025-08-27T20:56:53.039521+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.67, "timestamp": "2025-08-27T20:56:54.561841+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.6, "timestamp": "2025-08-27T20:56:56.020746+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.75, "timestamp": "2025-08-27T20:56:57.374825+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.79, "timestamp": "2025-08-27T20:56:58.811738+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.3, "timestamp": "2025-08-27T20:57:00.287877+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 123.59, "timestamp": "2025-08-27T20:57:01.610267+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 15.36, "timestamp": "2025-08-27T20:57:03.068270+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.19, "timestamp": "2025-08-27T20:57:04.501790+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.1, "timestamp": "2025-08-27T20:57:06.108121+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.34, "timestamp": "2025-08-27T20:57:07.543747+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 101.74, "timestamp": "2025-08-27T20:57:08.950687+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.96, "timestamp": "2025-08-27T20:57:10.507858+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.5, "timestamp": "2025-08-27T20:57:12.036670+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.68, "timestamp": "2025-08-27T20:57:44.051221+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.27, "timestamp": "2025-08-27T20:57:45.370159+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 56.48, "timestamp": "2025-08-27T20:57:55.229081+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 11.93, "timestamp": "2025-08-27T20:58:04.274049+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.16, "timestamp": "2025-08-27T20:58:13.208706+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 29.29, "timestamp": "2025-08-27T20:58:22.170490+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.69, "timestamp": "2025-08-27T20:58:31.211647+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.71, "timestamp": "2025-08-27T20:58:40.108660+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.37, "timestamp": "2025-08-27T20:58:49.129259+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.56, "timestamp": "2025-08-27T20:58:58.001826+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.01, "timestamp": "2025-08-27T20:59:07.048014+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.2, "timestamp": "2025-08-27T20:59:16.038884+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.32, "timestamp": "2025-08-27T20:59:25.048170+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.45, "timestamp": "2025-08-27T20:59:34.030041+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.0, "timestamp": "2025-08-27T20:59:42.945865+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-08-27T20:59:51.846571+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.68, "timestamp": "2025-08-27T21:00:00.787646+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.71, "timestamp": "2025-08-27T21:00:10.167677+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.21, "timestamp": "2025-08-27T21:00:19.031560+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.46, "timestamp": "2025-08-27T21:00:34.031388+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.25, "timestamp": "2025-08-27T21:00:43.048446+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.37, "timestamp": "2025-08-27T21:00:51.869163+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.95, "timestamp": "2025-08-28T17:49:50.270739+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.89, "timestamp": "2025-08-28T17:49:51.790104+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.53, "timestamp": "2025-08-28T17:49:53.147109+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.95, "timestamp": "2025-08-28T17:49:54.717910+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.48, "timestamp": "2025-08-28T17:49:56.134483+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.38, "timestamp": "2025-08-28T17:49:57.561351+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.57, "timestamp": "2025-08-28T17:49:58.854926+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.58, "timestamp": "2025-08-28T17:50:00.710413+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.64, "timestamp": "2025-08-28T17:50:02.027471+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.8, "timestamp": "2025-08-28T17:50:03.570840+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.86, "timestamp": "2025-08-28T17:50:05.008369+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.35, "timestamp": "2025-08-28T17:50:06.284386+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 130.0, "timestamp": "2025-08-28T17:50:07.848151+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 15.98, "timestamp": "2025-08-28T17:50:09.471267+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.55, "timestamp": "2025-08-28T17:50:10.946711+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.07, "timestamp": "2025-08-28T17:50:12.389374+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.36, "timestamp": "2025-08-28T17:50:13.830936+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.13, "timestamp": "2025-08-28T17:50:15.294488+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 16.33, "timestamp": "2025-08-28T17:50:16.816798+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 17.37, "timestamp": "2025-08-28T17:50:18.247637+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.66, "timestamp": "2025-08-28T17:50:50.292570+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.19, "timestamp": "2025-08-28T17:50:51.816143+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 60.8, "timestamp": "2025-08-28T17:51:00.886859+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.83, "timestamp": "2025-08-28T17:51:09.853635+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 12.38, "timestamp": "2025-08-28T17:51:18.826766+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 29.85, "timestamp": "2025-08-28T17:51:27.714708+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.51, "timestamp": "2025-08-28T17:51:36.901988+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.6, "timestamp": "2025-08-28T17:51:46.172616+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.32, "timestamp": "2025-08-28T17:51:55.061864+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.76, "timestamp": "2025-08-28T17:52:04.046001+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.11, "timestamp": "2025-08-28T17:52:12.999795+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.11, "timestamp": "2025-08-28T17:52:22.053822+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.05, "timestamp": "2025-08-28T17:52:31.294744+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.5, "timestamp": "2025-08-28T17:52:40.369384+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 8.94, "timestamp": "2025-08-28T17:52:49.755052+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-08-28T17:52:59.438175+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 7.1, "timestamp": "2025-08-28T17:53:09.023227+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.73, "timestamp": "2025-08-28T17:53:18.175276+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.14, "timestamp": "2025-08-28T17:53:27.533964+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.53, "timestamp": "2025-08-28T17:53:43.265431+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.15, "timestamp": "2025-08-28T17:53:52.233445+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.18, "timestamp": "2025-08-28T17:54:01.145334+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.95, "timestamp": "2025-08-28T19:04:28.141175+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.92, "timestamp": "2025-08-28T19:04:29.699473+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.54, "timestamp": "2025-08-28T19:04:31.142064+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.97, "timestamp": "2025-08-28T19:04:33.068756+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.47, "timestamp": "2025-08-28T19:04:34.480805+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.36, "timestamp": "2025-08-28T19:04:35.789900+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.55, "timestamp": "2025-08-28T19:04:37.202259+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.6, "timestamp": "2025-08-28T19:04:38.660998+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.51, "timestamp": "2025-08-28T19:04:40.036538+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.08, "timestamp": "2025-08-28T19:04:41.823573+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.91, "timestamp": "2025-08-28T19:04:43.437765+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.35, "timestamp": "2025-08-28T19:04:44.824742+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 130.0, "timestamp": "2025-08-28T19:04:46.312738+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.34, "timestamp": "2025-08-28T19:04:48.011138+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.84, "timestamp": "2025-08-28T19:04:49.389626+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.08, "timestamp": "2025-08-28T19:04:50.847547+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.38, "timestamp": "2025-08-28T19:04:52.327921+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.16, "timestamp": "2025-08-28T19:04:54.489692+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 15.99, "timestamp": "2025-08-28T19:04:56.435472+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.81, "timestamp": "2025-08-28T19:04:57.978025+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.64, "timestamp": "2025-08-28T19:05:27.674581+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.25, "timestamp": "2025-08-28T19:05:36.655210+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 55.7, "timestamp": "2025-08-28T19:05:45.871349+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.19, "timestamp": "2025-08-28T19:05:54.815402+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 12.25, "timestamp": "2025-08-28T19:06:03.651147+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 29.8, "timestamp": "2025-08-28T19:06:13.012312+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.79, "timestamp": "2025-08-28T19:06:22.010211+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.49, "timestamp": "2025-08-28T19:06:31.091529+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.42, "timestamp": "2025-08-28T19:06:40.996332+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.14, "timestamp": "2025-08-28T19:06:50.802094+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.04, "timestamp": "2025-08-28T19:06:59.817935+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.16, "timestamp": "2025-08-28T19:07:09.103429+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.32, "timestamp": "2025-08-28T19:07:18.526010+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.44, "timestamp": "2025-08-28T19:07:27.980909+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 8.97, "timestamp": "2025-08-28T19:07:37.492654+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.93, "timestamp": "2025-08-28T19:07:46.874118+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.92, "timestamp": "2025-08-28T19:07:56.250516+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.4, "timestamp": "2025-08-28T19:08:05.681213+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 8.69, "timestamp": "2025-08-28T19:08:14.996417+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.5, "timestamp": "2025-08-28T19:08:30.282707+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 4.97, "timestamp": "2025-08-28T19:08:37.741581+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.0, "timestamp": "2025-08-28T19:08:39.703374+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 0.95, "timestamp": "2025-08-28T19:57:54.719468+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.92, "timestamp": "2025-08-28T19:57:56.028835+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.54, "timestamp": "2025-08-28T19:57:57.421625+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.9, "timestamp": "2025-08-28T19:57:58.851505+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.47, "timestamp": "2025-08-28T19:58:00.443971+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.36, "timestamp": "2025-08-28T19:58:02.019364+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.59, "timestamp": "2025-08-28T19:58:03.422611+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.7, "timestamp": "2025-08-28T19:58:04.707676+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.78, "timestamp": "2025-08-28T19:58:06.188444+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.09, "timestamp": "2025-08-28T19:58:07.745312+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.8, "timestamp": "2025-08-28T19:58:09.361993+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.35, "timestamp": "2025-08-28T19:58:10.763427+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 128.8, "timestamp": "2025-08-28T19:58:12.217741+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 16.64, "timestamp": "2025-08-28T19:58:13.726799+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.44, "timestamp": "2025-08-28T19:58:15.311494+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.03, "timestamp": "2025-08-28T19:58:16.748857+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.39, "timestamp": "2025-08-28T19:58:18.177668+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 103.16, "timestamp": "2025-08-28T19:58:19.670969+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 16.33, "timestamp": "2025-08-28T19:58:21.259100+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.25, "timestamp": "2025-08-28T19:58:22.968963+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.13, "timestamp": "2025-08-28T19:58:58.158314+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.62, "timestamp": "2025-08-28T19:59:07.065894+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.44, "timestamp": "2025-08-28T19:59:16.170526+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 60.28, "timestamp": "2025-08-28T19:59:25.384236+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.44, "timestamp": "2025-08-28T19:59:34.915087+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.43, "timestamp": "2025-08-28T19:59:44.704244+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 30.32, "timestamp": "2025-08-28T19:59:54.188997+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.09, "timestamp": "2025-08-28T20:00:03.137952+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.55, "timestamp": "2025-08-28T20:00:12.379179+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.14, "timestamp": "2025-08-28T20:00:21.508476+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.77, "timestamp": "2025-08-28T20:00:30.563942+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.07, "timestamp": "2025-08-28T20:00:39.582228+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.16, "timestamp": "2025-08-28T20:00:48.766907+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.22, "timestamp": "2025-08-28T20:00:58.073655+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.47, "timestamp": "2025-08-28T20:01:07.298235+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 8.92, "timestamp": "2025-08-28T20:01:16.463266+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.93, "timestamp": "2025-08-28T20:01:28.115026+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.38, "timestamp": "2025-08-28T20:01:38.194528+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.51, "timestamp": "2025-08-28T20:01:47.607381+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.29, "timestamp": "2025-08-28T20:01:56.877294+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.48, "timestamp": "2025-08-28T20:02:12.191069+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.0, "timestamp": "2025-08-28T20:02:19.372814+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.0, "timestamp": "2025-09-08T20:19:05.616748+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.97, "timestamp": "2025-09-08T20:19:07.067109+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.54, "timestamp": "2025-09-08T20:19:08.256860+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 2.01, "timestamp": "2025-09-08T20:19:09.596116+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.51, "timestamp": "2025-09-08T20:19:10.816264+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.38, "timestamp": "2025-09-08T20:19:12.044157+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.58, "timestamp": "2025-09-08T20:19:13.540192+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 18.28, "timestamp": "2025-09-08T20:19:15.044164+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 7.03, "timestamp": "2025-09-08T20:19:16.508346+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.41, "timestamp": "2025-09-08T20:19:17.935852+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 5.11, "timestamp": "2025-09-08T20:19:19.275837+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.38, "timestamp": "2025-09-08T20:19:20.699763+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 128.89, "timestamp": "2025-09-08T20:19:29.585785+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 15.98, "timestamp": "2025-09-08T20:19:38.977510+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 11.08, "timestamp": "2025-09-08T20:19:47.842402+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 2.01, "timestamp": "2025-09-08T20:19:49.190612+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.2, "timestamp": "2025-09-08T20:19:50.666404+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 91.56, "timestamp": "2025-09-08T20:19:52.038453+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.48, "timestamp": "2025-09-08T20:19:53.375109+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 17.1, "timestamp": "2025-09-08T20:19:54.598399+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.46, "timestamp": "2025-09-08T20:19:55.947904+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.29, "timestamp": "2025-09-08T20:19:57.247129+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.21, "timestamp": "2025-09-08T20:19:58.790631+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.5, "timestamp": "2025-09-08T20:20:00.132373+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 13.26, "timestamp": "2025-09-08T20:20:01.396286+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 60.79, "timestamp": "2025-09-08T20:20:02.900445+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.35, "timestamp": "2025-09-08T20:20:04.420240+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.98, "timestamp": "2025-09-08T20:20:06.100930+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 33.65, "timestamp": "2025-09-08T20:20:07.310861+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.74, "timestamp": "2025-09-08T20:20:08.985469+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.49, "timestamp": "2025-09-08T20:20:10.394395+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.3, "timestamp": "2025-09-08T20:20:20.781634+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.03, "timestamp": "2025-09-08T20:20:22.002975+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.02, "timestamp": "2025-09-08T20:20:23.544540+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.29, "timestamp": "2025-09-08T20:20:24.836044+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.76, "timestamp": "2025-09-08T20:20:26.321581+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.72, "timestamp": "2025-09-08T20:20:28.214067+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.94, "timestamp": "2025-09-08T20:20:29.691021+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.74, "timestamp": "2025-09-08T20:20:31.170878+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.71, "timestamp": "2025-09-08T20:20:40.010313+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 10.3, "timestamp": "2025-09-08T20:20:48.776626+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.21, "timestamp": "2025-09-08T20:21:03.934248+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.0, "timestamp": "2025-09-09T18:42:10.550169+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.96, "timestamp": "2025-09-09T18:42:11.858546+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.53, "timestamp": "2025-09-09T18:42:13.186356+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.98, "timestamp": "2025-09-09T18:42:14.535567+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.5, "timestamp": "2025-09-09T18:42:15.939662+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.38, "timestamp": "2025-09-09T18:42:17.229088+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.59, "timestamp": "2025-09-09T18:42:18.509465+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 18.09, "timestamp": "2025-09-09T18:42:20.040128+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 7.19, "timestamp": "2025-09-09T18:42:21.496646+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.54, "timestamp": "2025-09-09T18:42:22.727792+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.98, "timestamp": "2025-09-09T18:42:24.316529+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.46, "timestamp": "2025-09-09T18:42:25.576489+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 128.0, "timestamp": "2025-09-09T18:42:27.030763+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 15.27, "timestamp": "2025-09-09T18:42:28.486284+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 10.93, "timestamp": "2025-09-09T18:42:30.085884+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.98, "timestamp": "2025-09-09T18:42:31.451782+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.21, "timestamp": "2025-09-09T18:42:32.795720+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 90.93, "timestamp": "2025-09-09T18:42:34.139916+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.25, "timestamp": "2025-09-09T18:42:35.600931+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 17.16, "timestamp": "2025-09-09T18:42:36.945063+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.53, "timestamp": "2025-09-09T18:43:11.795365+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.74, "timestamp": "2025-09-09T18:43:13.341429+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 55.59, "timestamp": "2025-09-09T18:43:14.771215+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.01, "timestamp": "2025-09-09T18:43:16.056534+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 14.09, "timestamp": "2025-09-09T18:43:17.395658+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 32.4, "timestamp": "2025-09-09T18:43:18.813518+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.32, "timestamp": "2025-09-09T18:43:20.098611+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.43, "timestamp": "2025-09-09T18:43:21.405188+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.23, "timestamp": "2025-09-09T18:43:22.723240+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.31, "timestamp": "2025-09-09T18:43:23.946958+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 2.03, "timestamp": "2025-09-09T18:43:25.325217+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.08, "timestamp": "2025-09-09T18:43:26.754981+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.43, "timestamp": "2025-09-09T18:43:28.145721+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.81, "timestamp": "2025-09-09T18:43:29.625824+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.6, "timestamp": "2025-09-09T18:43:30.933641+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.94, "timestamp": "2025-09-09T18:43:32.122236+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.75, "timestamp": "2025-09-09T18:43:33.497712+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.71, "timestamp": "2025-09-09T18:43:34.853642+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.83, "timestamp": "2025-09-09T18:43:36.093685+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.58, "timestamp": "2025-09-09T18:43:43.561000+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.0, "timestamp": "2025-09-10T20:14:58.216060+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 0.97, "timestamp": "2025-09-10T20:14:59.478407+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.5, "timestamp": "2025-09-10T20:15:00.925684+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.87, "timestamp": "2025-09-10T20:15:02.519997+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.49, "timestamp": "2025-09-10T20:15:03.892775+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.37, "timestamp": "2025-09-10T20:15:05.188649+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.57, "timestamp": "2025-09-10T20:15:06.461993+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.9, "timestamp": "2025-09-10T20:15:07.725493+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.86, "timestamp": "2025-09-10T20:15:09.071840+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.3, "timestamp": "2025-09-10T20:15:10.361969+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 5.03, "timestamp": "2025-09-10T20:15:11.758885+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.34, "timestamp": "2025-09-10T20:15:20.490501+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 125.51, "timestamp": "2025-09-10T20:15:29.270391+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 14.78, "timestamp": "2025-09-10T20:15:33.771803+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 9.55, "timestamp": "2025-09-10T20:15:35.328929+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.92, "timestamp": "2025-09-10T20:15:36.683068+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.14, "timestamp": "2025-09-10T20:15:38.198210+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 98.99, "timestamp": "2025-09-10T20:15:39.579360+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.26, "timestamp": "2025-09-10T20:15:41.040873+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.19, "timestamp": "2025-09-10T20:15:42.312046+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.22, "timestamp": "2025-09-10T20:16:01.408121+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.73, "timestamp": "2025-09-10T20:16:02.810729+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.69, "timestamp": "2025-09-10T20:16:04.260380+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 58.7, "timestamp": "2025-09-10T20:16:05.754109+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 11.99, "timestamp": "2025-09-10T20:16:07.028142+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.15, "timestamp": "2025-09-10T20:16:08.436266+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 31.89, "timestamp": "2025-09-10T20:16:09.860316+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.45, "timestamp": "2025-09-10T20:16:11.140892+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 18.89, "timestamp": "2025-09-10T20:16:12.454338+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.33, "timestamp": "2025-09-10T20:16:13.794546+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.15, "timestamp": "2025-09-10T20:16:15.526442+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 1.98, "timestamp": "2025-09-10T20:16:16.778050+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 1.95, "timestamp": "2025-09-10T20:16:18.146409+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.41, "timestamp": "2025-09-10T20:16:19.478331+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.93, "timestamp": "2025-09-10T20:16:20.882333+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.39, "timestamp": "2025-09-10T20:16:29.600377+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.94, "timestamp": "2025-09-10T20:16:38.328009+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.87, "timestamp": "2025-09-10T20:16:46.966750+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.68, "timestamp": "2025-09-10T20:16:55.766848+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.73, "timestamp": "2025-09-10T20:17:04.399303+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.66, "timestamp": "2025-09-10T20:17:19.095433+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.15, "timestamp": "2025-09-10T20:17:27.806798+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.0, "timestamp": "2025-09-11T09:34:43.754826+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 1.62, "timestamp": "2025-09-11T09:34:44.965297+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.49, "timestamp": "2025-09-11T09:34:46.128515+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.95, "timestamp": "2025-09-11T09:34:47.349448+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.5, "timestamp": "2025-09-11T09:34:48.671559+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.38, "timestamp": "2025-09-11T09:34:49.956953+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.55, "timestamp": "2025-09-11T09:34:51.268853+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.85, "timestamp": "2025-09-11T09:34:52.669948+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.73, "timestamp": "2025-09-11T09:34:53.935971+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.38, "timestamp": "2025-09-11T09:34:55.338689+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.85, "timestamp": "2025-09-11T09:34:56.703984+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.31, "timestamp": "2025-09-11T09:34:58.164622+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 132.14, "timestamp": "2025-09-11T09:34:59.576326+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 15.26, "timestamp": "2025-09-11T09:35:00.868665+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 10.83, "timestamp": "2025-09-11T09:35:02.196603+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.88, "timestamp": "2025-09-11T09:35:03.612105+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.12, "timestamp": "2025-09-11T09:35:04.916045+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 98.99, "timestamp": "2025-09-11T09:35:06.064346+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.45, "timestamp": "2025-09-11T09:35:07.308016+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.9, "timestamp": "2025-09-11T09:35:08.675975+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.18, "timestamp": "2025-09-11T09:35:49.839480+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.64, "timestamp": "2025-09-11T09:35:58.469887+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.66, "timestamp": "2025-09-11T09:36:07.161842+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 53.07, "timestamp": "2025-09-11T09:36:15.869424+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.15, "timestamp": "2025-09-11T09:36:24.593185+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.35, "timestamp": "2025-09-11T09:36:33.352586+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 34.62, "timestamp": "2025-09-11T09:36:42.145133+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.51, "timestamp": "2025-09-11T09:36:50.896294+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 17.55, "timestamp": "2025-09-11T09:36:59.558861+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.49, "timestamp": "2025-09-11T09:37:08.342939+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.3, "timestamp": "2025-09-11T09:37:16.989814+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 1.98, "timestamp": "2025-09-11T09:37:25.741521+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 1.98, "timestamp": "2025-09-11T09:37:34.537882+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.72, "timestamp": "2025-09-11T09:37:43.169330+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 3.24, "timestamp": "2025-09-11T09:37:51.854303+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.12, "timestamp": "2025-09-11T09:38:00.505823+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-09-11T09:38:09.129772+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.72, "timestamp": "2025-09-11T09:38:17.947978+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.78, "timestamp": "2025-09-11T09:38:26.617805+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.34, "timestamp": "2025-09-11T09:38:35.328267+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.65, "timestamp": "2025-09-11T09:38:50.319490+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.18, "timestamp": "2025-09-11T09:38:59.002847+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.0, "timestamp": "2025-09-11T10:43:31.106841+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 1.62, "timestamp": "2025-09-11T10:43:32.355415+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.5, "timestamp": "2025-09-11T10:43:33.687747+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.88, "timestamp": "2025-09-11T10:43:35.042321+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.49, "timestamp": "2025-09-11T10:43:36.450326+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.37, "timestamp": "2025-09-11T10:43:37.698694+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.54, "timestamp": "2025-09-11T10:43:39.335279+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 17.19, "timestamp": "2025-09-11T10:43:40.823837+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.7, "timestamp": "2025-09-11T10:43:42.215113+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.37, "timestamp": "2025-09-11T10:43:43.576952+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.85, "timestamp": "2025-09-11T10:43:44.865850+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.3, "timestamp": "2025-09-11T10:43:46.237748+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 131.02, "timestamp": "2025-09-11T10:43:47.499916+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 15.31, "timestamp": "2025-09-11T10:43:48.877912+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 10.41, "timestamp": "2025-09-11T10:43:50.135034+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.87, "timestamp": "2025-09-11T10:43:51.292257+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.11, "timestamp": "2025-09-11T10:43:52.660243+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 98.99, "timestamp": "2025-09-11T10:43:54.043096+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.18, "timestamp": "2025-09-11T10:43:55.550503+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.88, "timestamp": "2025-09-11T10:43:56.902933+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.17, "timestamp": "2025-09-11T10:44:30.594872+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.67, "timestamp": "2025-09-11T10:44:39.335913+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 12.43, "timestamp": "2025-09-11T10:44:48.118501+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 52.99, "timestamp": "2025-09-11T10:44:56.768547+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 11.68, "timestamp": "2025-09-11T10:45:05.653974+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.35, "timestamp": "2025-09-11T10:45:14.252175+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 33.74, "timestamp": "2025-09-11T10:45:23.135973+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.3, "timestamp": "2025-09-11T10:45:31.867031+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 17.36, "timestamp": "2025-09-11T10:45:40.662082+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.49, "timestamp": "2025-09-11T10:45:49.430196+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.29, "timestamp": "2025-09-11T10:45:58.218202+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 1.98, "timestamp": "2025-09-11T10:46:07.002165+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 1.96, "timestamp": "2025-09-11T10:46:15.675820+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.83, "timestamp": "2025-09-11T10:46:24.559291+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 3.42, "timestamp": "2025-09-11T10:46:33.332733+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.06, "timestamp": "2025-09-11T10:46:42.022823+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.92, "timestamp": "2025-09-11T10:46:50.709699+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.57, "timestamp": "2025-09-11T10:46:59.529927+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.83, "timestamp": "2025-09-11T10:47:08.297826+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.06, "timestamp": "2025-09-11T10:47:17.050003+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.67, "timestamp": "2025-09-11T10:47:31.842087+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.23, "timestamp": "2025-09-11T10:47:40.842737+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.12, "timestamp": "2025-09-12T23:42:59.724439+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 1.77, "timestamp": "2025-09-12T23:43:00.912624+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.52, "timestamp": "2025-09-12T23:43:02.296066+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.92, "timestamp": "2025-09-12T23:43:03.756307+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.52, "timestamp": "2025-09-12T23:43:05.134968+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.4, "timestamp": "2025-09-12T23:43:06.432507+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.6, "timestamp": "2025-09-12T23:43:07.708126+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.64, "timestamp": "2025-09-12T23:43:08.994677+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 7.32, "timestamp": "2025-09-12T23:43:10.335979+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.08, "timestamp": "2025-09-12T23:43:11.713613+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.9, "timestamp": "2025-09-12T23:43:13.095692+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.38, "timestamp": "2025-09-12T23:43:14.454983+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 126.0, "timestamp": "2025-09-12T23:43:15.783176+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 14.14, "timestamp": "2025-09-12T23:43:17.164379+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 9.95, "timestamp": "2025-09-12T23:43:18.560470+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.91, "timestamp": "2025-09-12T23:43:27.227196+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.12, "timestamp": "2025-09-12T23:43:35.970376+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 98.99, "timestamp": "2025-09-12T23:43:44.655953+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 16.99, "timestamp": "2025-09-12T23:43:53.440882+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.39, "timestamp": "2025-09-12T23:44:02.219474+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.67, "timestamp": "2025-09-12T23:44:10.909908+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 5.06, "timestamp": "2025-09-12T23:44:19.605751+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 5.13, "timestamp": "2025-09-12T23:44:28.285376+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.64, "timestamp": "2025-09-12T23:44:36.893188+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 13.17, "timestamp": "2025-09-12T23:44:45.912916+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 58.2, "timestamp": "2025-09-12T23:44:54.966646+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 12.11, "timestamp": "2025-09-12T23:45:03.640406+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 13.28, "timestamp": "2025-09-12T23:45:12.346567+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 34.5, "timestamp": "2025-09-12T23:45:21.066544+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 7.45, "timestamp": "2025-09-12T23:45:29.709345+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 17.3, "timestamp": "2025-09-12T23:45:38.389041+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 6.36, "timestamp": "2025-09-12T23:45:47.276518+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 5.25, "timestamp": "2025-09-12T23:45:53.844422+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 1.93, "timestamp": "2025-09-12T23:45:55.263221+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 2.03, "timestamp": "2025-09-12T23:45:56.607222+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.9, "timestamp": "2025-09-12T23:45:57.877502+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 3.33, "timestamp": "2025-09-12T23:45:59.327507+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 9.0, "timestamp": "2025-09-12T23:46:00.478088+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.89, "timestamp": "2025-09-12T23:46:01.721000+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.91, "timestamp": "2025-09-12T23:46:03.055975+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.69, "timestamp": "2025-09-12T23:46:04.381311+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 9.31, "timestamp": "2025-09-12T23:46:05.813776+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.07, "timestamp": "2025-09-17T20:45:26.612803+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 1.64, "timestamp": "2025-09-17T20:45:27.959781+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.51, "timestamp": "2025-09-17T20:45:29.768427+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.79, "timestamp": "2025-09-17T20:45:32.951487+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.8, "timestamp": "2025-09-17T20:45:35.005732+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.4, "timestamp": "2025-09-17T20:45:36.315924+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.53, "timestamp": "2025-09-17T20:45:37.789977+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.24, "timestamp": "2025-09-17T20:45:39.187830+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.8, "timestamp": "2025-09-17T20:45:40.707691+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 5.09, "timestamp": "2025-09-17T20:45:42.087686+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.74, "timestamp": "2025-09-17T20:45:43.797028+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.23, "timestamp": "2025-09-17T20:45:46.456640+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 114.63, "timestamp": "2025-09-17T20:45:48.007069+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 14.22, "timestamp": "2025-09-17T20:45:49.378585+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 9.52, "timestamp": "2025-09-17T20:45:50.873984+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.98, "timestamp": "2025-09-17T20:45:52.263688+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.1, "timestamp": "2025-09-17T20:45:53.432871+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 88.62, "timestamp": "2025-09-17T20:46:02.488152+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 17.14, "timestamp": "2025-09-17T20:46:11.346588+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 16.1, "timestamp": "2025-09-17T20:46:19.954128+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.45, "timestamp": "2025-09-17T20:46:29.007138+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 4.6, "timestamp": "2025-09-17T20:46:37.764223+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 4.56, "timestamp": "2025-09-17T20:46:46.518118+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.5, "timestamp": "2025-09-17T20:46:55.142292+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 11.47, "timestamp": "2025-09-17T20:47:03.814333+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 54.47, "timestamp": "2025-09-17T20:47:12.572842+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 11.82, "timestamp": "2025-09-17T20:47:21.324871+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 12.9, "timestamp": "2025-09-17T20:47:30.170355+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 32.35, "timestamp": "2025-09-17T20:47:39.068901+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.49, "timestamp": "2025-09-17T20:47:47.935685+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 17.15, "timestamp": "2025-09-17T20:47:56.637214+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.33, "timestamp": "2025-09-17T20:48:05.337208+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.73, "timestamp": "2025-09-17T20:48:14.119377+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 1.88, "timestamp": "2025-09-17T20:48:22.874101+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 1.97, "timestamp": "2025-09-17T20:48:31.693041+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.72, "timestamp": "2025-09-17T20:48:40.401311+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.62, "timestamp": "2025-09-17T20:48:49.131827+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 8.99, "timestamp": "2025-09-17T20:48:57.928116+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.88, "timestamp": "2025-09-17T20:49:06.835426+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.15, "timestamp": "2025-09-17T20:49:15.744604+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.46, "timestamp": "2025-09-17T20:49:24.367723+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 8.45, "timestamp": "2025-09-17T20:49:33.120924+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.17, "timestamp": "2025-09-18T21:14:35.548376+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 1.44, "timestamp": "2025-09-18T21:14:36.894447+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.52, "timestamp": "2025-09-18T21:14:38.115006+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.89, "timestamp": "2025-09-18T21:14:39.313304+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.94, "timestamp": "2025-09-18T21:14:40.793372+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.42, "timestamp": "2025-09-18T21:14:42.209947+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.55, "timestamp": "2025-09-18T21:14:43.494171+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.49, "timestamp": "2025-09-18T21:14:44.991938+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.25, "timestamp": "2025-09-18T21:14:46.207811+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 4.87, "timestamp": "2025-09-18T21:14:47.504996+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.46, "timestamp": "2025-09-18T21:14:48.816541+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.28, "timestamp": "2025-09-18T21:14:50.055027+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 119.2, "timestamp": "2025-09-18T21:14:51.312800+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 13.26, "timestamp": "2025-09-18T21:14:52.742931+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 9.98, "timestamp": "2025-09-18T21:14:54.096464+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.99, "timestamp": "2025-09-18T21:14:55.472665+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 2.11, "timestamp": "2025-09-18T21:14:56.764583+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 91.9, "timestamp": "2025-09-18T21:14:58.147064+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 16.49, "timestamp": "2025-09-18T21:14:59.475091+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.92, "timestamp": "2025-09-18T21:15:00.823190+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 11.63, "timestamp": "2025-09-18T21:15:44.962764+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 51.24, "timestamp": "2025-09-18T21:15:53.660349+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 10.61, "timestamp": "2025-09-18T21:16:02.503340+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 12.14, "timestamp": "2025-09-18T21:16:11.254660+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 31.0, "timestamp": "2025-09-18T21:16:19.995077+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.35, "timestamp": "2025-09-18T21:16:28.740593+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 17.16, "timestamp": "2025-09-18T21:16:37.598766+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 4.98, "timestamp": "2025-09-18T21:16:46.401323+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.71, "timestamp": "2025-09-18T21:16:55.209546+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 1.89, "timestamp": "2025-09-18T21:17:04.004725+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 1.93, "timestamp": "2025-09-18T21:17:12.812018+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.25, "timestamp": "2025-09-18T21:17:21.576584+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.55, "timestamp": "2025-09-18T21:17:30.467358+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 8.56, "timestamp": "2025-09-18T21:17:39.278920+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.86, "timestamp": "2025-09-18T21:17:48.017893+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.07, "timestamp": "2025-09-18T21:17:56.836157+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.37, "timestamp": "2025-09-18T21:18:05.741385+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 8.62, "timestamp": "2025-09-18T21:18:14.549930+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.02, "timestamp": "2025-09-18T21:18:29.760543+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 4.71, "timestamp": "2025-09-18T21:18:38.533436+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 4.6, "timestamp": "2025-09-18T21:18:47.386988+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.37, "timestamp": "2025-09-18T21:18:56.436128+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fever Case", "price": 1.22, "timestamp": "2025-09-20T17:26:59.869074+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gallery Case", "price": 1.3, "timestamp": "2025-09-20T17:27:01.932672+00:00", "source": "Steam-Priceoverview"}
+{"case": "Kilowatt Case", "price": 0.53, "timestamp": "2025-09-20T17:27:03.228694+00:00", "source": "Steam-Priceoverview"}
+{"case": "Dreams & Nightmares Case", "price": 1.95, "timestamp": "2025-09-20T17:27:04.832411+00:00", "source": "Steam-Priceoverview"}
+{"case": "Fracture Case", "price": 0.83, "timestamp": "2025-09-20T17:27:06.228560+00:00", "source": "Steam-Priceoverview"}
+{"case": "Recoil Case", "price": 0.49, "timestamp": "2025-09-20T17:27:08.568643+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolution Case", "price": 0.59, "timestamp": "2025-09-20T17:27:17.196334+00:00", "source": "Steam-Priceoverview"}
+{"case": "Glove Case", "price": 16.37, "timestamp": "2025-09-20T17:27:26.005611+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma Case", "price": 6.41, "timestamp": "2025-09-20T17:27:34.797116+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 2 Case", "price": 4.84, "timestamp": "2025-09-20T17:27:43.482117+00:00", "source": "Steam-Priceoverview"}
+{"case": "Chroma 3 Case", "price": 4.69, "timestamp": "2025-09-20T17:27:52.200969+00:00", "source": "Steam-Priceoverview"}
+{"case": "Clutch Case", "price": 1.22, "timestamp": "2025-09-20T17:28:01.011350+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case", "price": 119.96, "timestamp": "2025-09-20T17:28:09.778637+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 2", "price": 14.0, "timestamp": "2025-09-20T17:28:18.656115+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS:GO Weapon Case 3", "price": 9.13, "timestamp": "2025-09-20T17:28:27.431680+00:00", "source": "Steam-Priceoverview"}
+{"case": "CS20 Case", "price": 1.9, "timestamp": "2025-09-20T17:28:36.199541+00:00", "source": "Steam-Priceoverview"}
+{"case": "Danger Zone Case", "price": 1.95, "timestamp": "2025-09-20T17:28:44.818897+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Case", "price": 85.7, "timestamp": "2025-09-20T17:28:53.542546+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2013 Winter Case", "price": 16.92, "timestamp": "2025-09-20T17:29:02.394457+00:00", "source": "Steam-Priceoverview"}
+{"case": "eSports 2014 Summer Case", "price": 15.75, "timestamp": "2025-09-20T17:29:11.265477+00:00", "source": "Steam-Priceoverview"}
+{"case": "Falchion Case", "price": 2.3, "timestamp": "2025-09-20T17:29:13.774204+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma Case", "price": 4.49, "timestamp": "2025-09-20T17:29:15.065649+00:00", "source": "Steam-Priceoverview"}
+{"case": "Gamma 2 Case", "price": 4.6, "timestamp": "2025-09-20T17:29:16.705826+00:00", "source": "Steam-Priceoverview"}
+{"case": "Horizon Case", "price": 2.42, "timestamp": "2025-09-20T17:29:18.077758+00:00", "source": "Steam-Priceoverview"}
+{"case": "Huntsman Weapon Case", "price": 11.78, "timestamp": "2025-09-20T17:29:19.417648+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Bravo Case", "price": 54.0, "timestamp": "2025-09-20T17:29:20.709875+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Breakout Weapon Case", "price": 11.23, "timestamp": "2025-09-20T17:29:21.986748+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Broken Fang Case", "price": 12.31, "timestamp": "2025-09-20T17:29:23.369562+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Hydra Case", "price": 30.5, "timestamp": "2025-09-20T17:29:24.621445+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Phoenix Weapon Case", "price": 6.53, "timestamp": "2025-09-20T17:29:26.201334+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Riptide Case", "price": 15.98, "timestamp": "2025-09-20T17:29:27.560894+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Vanguard Weapon Case", "price": 5.4, "timestamp": "2025-09-20T17:29:28.949390+00:00", "source": "Steam-Priceoverview"}
+{"case": "Operation Wildfire Case", "price": 4.86, "timestamp": "2025-09-20T17:29:30.501763+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma Case", "price": 1.88, "timestamp": "2025-09-20T17:29:31.825199+00:00", "source": "Steam-Priceoverview"}
+{"case": "Prisma 2 Case", "price": 1.98, "timestamp": "2025-09-20T17:29:33.025248+00:00", "source": "Steam-Priceoverview"}
+{"case": "Revolver Case", "price": 4.5, "timestamp": "2025-09-20T17:29:34.336993+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shadow Case", "price": 2.41, "timestamp": "2025-09-20T17:29:35.985132+00:00", "source": "Steam-Priceoverview"}
+{"case": "Shattered Web Case", "price": 8.34, "timestamp": "2025-09-20T17:29:37.353165+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum 2 Case", "price": 4.52, "timestamp": "2025-09-20T17:30:02.326981+00:00", "source": "Steam-Priceoverview"}
+{"case": "Winter Offensive Weapon Case", "price": 8.71, "timestamp": "2025-09-20T17:30:03.569788+00:00", "source": "Steam-Priceoverview"}
+{"case": "Snakebite Case", "price": 0.85, "timestamp": "2025-09-20T17:30:13.788507+00:00", "source": "Steam-Priceoverview"}
+{"case": "Spectrum Case", "price": 6.14, "timestamp": "2025-09-20T17:30:22.707963+00:00", "source": "Steam-Priceoverview"}
