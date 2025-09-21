@@ -5,24 +5,16 @@ import subprocess
 import sys
 from pathlib import Path
 from datetime import datetime
+import time
 
 # Kolejność uruchamiania (ostatni to agregator)
 SCRIPTS = [
-    # ceny
     "csfloat_prices.py",
     "steam_prices.py",
-
-    # unbox data
     "csroi_unbox_data_csfloat.py",
     "csroi_unbox_data_steam.py",
-
-    # popularność
     "csgocasetracker_popularity.py",
-
-    # player counts
     "steamcharts_playercounts.py",
-
-    # agregacja na końcu
     "final_data_output.py",
 ]
 
@@ -45,29 +37,36 @@ def run_script(script_path: Path) -> int:
 
 def main():
     base = Path(__file__).parent
-    results = {}
 
-    for script in SCRIPTS:
-        sp = base / script
-        if not sp.exists():
-            print(f"[WARN] Skrypt {script} nie istnieje w katalogu")
-            results[script] = 127
-            continue
+    while True:
+        results = {}
+        start_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        print(f"\n====== RUN START: {start_time} ======\n")
 
-        rc = run_script(sp)
-        results[script] = rc
+        for script in SCRIPTS:
+            sp = base / script
+            if not sp.exists():
+                print(f"[WARN] Skrypt {script} nie istnieje w katalogu")
+                results[script] = 127
+                continue
 
-    # Podsumowanie
-    ok = [s for s, rc in results.items() if rc == 0]
-    failed = [s for s, rc in results.items() if rc != 0]
+            rc = run_script(sp)
+            results[script] = rc
 
-    print("\n=== PODSUMOWANIE ===")
-    print(f"OK     : {len(ok)} → {', '.join(ok) if ok else '-'}")
-    print(f"FAILED : {len(failed)} → {', '.join(failed) if failed else '-'}")
+        # Podsumowanie
+        ok = [s for s, rc in results.items() if rc == 0]
+        failed = [s for s, rc in results.items() if rc != 0]
 
-    # kod wyjścia: 0 jeśli wszystko ok, inaczej 1
-    if failed:
-        sys.exit(1)
+        print("\n=== PODSUMOWANIE ===")
+        print(f"OK     : {len(ok)} → {', '.join(ok) if ok else '-'}")
+        print(f"FAILED : {len(failed)} → {', '.join(failed) if failed else '-'}")
+
+        end_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        print(f"\n====== RUN END: {end_time} ======")
+
+        # Czekaj 15 minut
+        print("\n[INFO] Oczekiwanie 15 minut przed kolejnym runem...\n")
+        time.sleep(900)  # 900 sekund = 15 minut
 
 if __name__ == "__main__":
     main()
