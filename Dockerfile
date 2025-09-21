@@ -4,15 +4,15 @@ FROM mcr.microsoft.com/playwright/python:v1.44.0-jammy
 # Ustaw katalog roboczy
 WORKDIR /app
 
-# Skopiuj pliki do kontenera
+# Skopiuj wszystkie pliki do kontenera
 COPY . .
 
-# Zainstaluj zależności
+# Instalacja zależności Pythona
 RUN pip install --upgrade pip \
  && pip install -r requirements.txt
 
-# Zainstaluj przeglądarki Playwright
-RUN playwright install
+# Instalacja przeglądarek Playwright (UWAGA! Zmiana tutaj!)
+RUN python -m playwright install
 
-# Uruchom aplikację
+# Komenda startowa
 CMD ["python", "main.py"]
