@@ -1,5 +1,5 @@
 # 1. Oficjalny obraz Playwrighta z przeglądarkami
-FROM mcr.microsoft.com/playwright/python:v1.44.0-jammy
+FROM mcr.microsoft.com/playwright/python:v1.55.0-beta-1756314050000-jammy
 
 # 2. Ustaw katalog roboczy
 WORKDIR /app
